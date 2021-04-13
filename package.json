@@ -1,0 +1,14 @@
+{
+  "name": "compress-mmi-architects-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "compress-images": "^1.9.9",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "pngquant-bin": "^6.0.0"
+  }
+}
